@@ -1,8 +1,7 @@
-var moment = require('moment/moment');
-class CaliCtrl {
+class HomeCtrl {
     constructor() {
     }
 }
-CaliCtrl.$inject = [];
+HomeCtrl.$inject = [];
 
-module.exports = CaliCtrl;
+module.exports = HomeCtrl;

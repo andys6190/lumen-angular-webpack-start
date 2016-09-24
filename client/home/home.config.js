@@ -1,5 +1,5 @@
 function config ($stateProvider) {
-    $stateProvider.state('home', {
+    $stateProvider.state('fitness.home', {
         url: '/home',
         views: {
             main: {
