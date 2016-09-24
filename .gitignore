@@ -1,0 +1,6 @@
+/vendor
+.env
+.*.sw[op]
+/node_modules
+/bower_components
+public/assets
